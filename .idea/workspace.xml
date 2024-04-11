@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b6a39d4-fa97-4ff8-b41e-a15fe657a00a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Evaluaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Juego.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Decisiones.executor": "Run",
+    "Application.Evaluaciones.executor": "Run",
+    "Application.Juego.executor": "Run",
     "Application.Lectura.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
@@ -45,7 +47,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Evaluaciones">
+  <component name="RunManager" selected="Application.Juego">
     <configuration name="Decisiones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Decisiones" />
       <module name="primerprograma" />
@@ -55,6 +57,13 @@
     </configuration>
     <configuration name="Evaluaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Evaluaciones" />
+      <module name="primerprograma" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Juego" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Juego" />
       <module name="primerprograma" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="primerprograma" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Juego" />
         <item itemvalue="Application.Evaluaciones" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Lectura" />
         <item itemvalue="Application.Decisiones" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
